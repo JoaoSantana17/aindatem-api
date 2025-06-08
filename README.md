@@ -117,4 +117,3 @@ Retorna as faixas de distância disponíveis:
 
 ---
 
-
